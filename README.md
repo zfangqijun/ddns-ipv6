@@ -1,7 +1,7 @@
 # ddns-ipv6
 DNSPod ipv6 DDNS JavaScript 脚本
 
-自动获取本机最新ipv6，更新DNSPod的域名解析记录
+自动获取本机最新ipv6，更新DNSPod的域名AAAA记录
 
 你可以使用 crontab 定时更新
 
