@@ -1,0 +1,6 @@
+{
+	"type": "module",
+	"dependencies": {
+		"public-ip": "^6.0.1"
+	}
+}
